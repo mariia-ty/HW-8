@@ -17,3 +17,24 @@ div ~ p {
 .yellow {
     color: yellow;
 }
+
+.time {
+    color: darkblue;
+}
+
+.courses {
+    color: darkblue;
+}
+
+.day1 {
+    color: cornflowerblue;
+}
+
+.day2 {
+    color: cornflowerblue;
+}
+
+.lunch {
+    color: midnightblue;
+}
+
